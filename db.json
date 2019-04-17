@@ -1,9 +1,9 @@
 {
   "motivos": [
-    {
-		"codigo": 1,
+    	{
+		"codigo":1,
 		"motivo":"Cartão danificado",
-		"taxado": true,
+		"taxado":true,
 		"custo":10.00
 	},
 	{
