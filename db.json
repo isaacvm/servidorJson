@@ -4,13 +4,13 @@
 		"codigo": 1,
 		"motivo":"Cartão danificado",
 		"taxado": true,
-		"custo":10.00  //Só é mostrado se taxado = true
+		"custo":10.00
 	},
 	{
 		"codigo": 2,
 		"motivo":"Furto",
 		"taxado": true,
-		"custo":10.00  //Só é mostrado se taxado = true
+		"custo":10.00
 	}
   ],
   "solicitarSaida": {
